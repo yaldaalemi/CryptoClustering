@@ -28,13 +28,9 @@ In this project, we aim to predict if cryptocurrencies are affected by 24-hour o
 1. Performed PCA on the original scaled DataFrame to reduce the features to three principal components.
 2. Retrieved the explained variance for each principal component.
 
-   **Answer to Question:** The total explained variance of the three principal components is [insert explained variance here].
-
 ## Finding the Best Value for k (Using PCA Data)
 
 1. Applied the elbow method on the PCA data to find the best value for k, following similar steps as before.
-   
-   **Answer to Question:** The best value for k when using the PCA data is [insert best k value here]. This value may or may not differ from the best k value found using the original data.
 
 ## Clustering Cryptocurrencies with K-means (Using PCA Data)
 
