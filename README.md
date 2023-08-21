@@ -16,8 +16,6 @@ In this project, we aim to predict if cryptocurrencies are affected by 24-hour o
    - Computed the inertia (within-cluster sum of squares) for each k.
    - Plotted an elbow curve to identify the best k value.
 
-   **Answer to Question:** The best value for k is [insert best k value here].
-
 ## Clustering Cryptocurrencies with K-means (Using Original Scaled Data)
 
 1. Initialized the K-means model with the best value for k.
