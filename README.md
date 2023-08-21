@@ -4,12 +4,6 @@
 
 In this project, we aim to predict if cryptocurrencies are affected by 24-hour or 7-day price changes using Python and unsupervised learning techniques. This document serves as a summary of the steps taken and the results achieved during the assignment.
 
-## Repository Setup
-
-1. Created a new repository on GitHub called **CryptoClustering** specifically for this project.
-2. Cloned the new repository to my local computer.
-3. Pushed the initial files to the GitHub repository.
-
 ## Initial Setup
 
 1. Renamed the provided `Crypto_Clustering_starter_code.ipynb` file to `Crypto_Clustering.ipynb`.
